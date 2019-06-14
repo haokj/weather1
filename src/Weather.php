@@ -1,9 +1,9 @@
 <?php
-namespace Overtrue\Weather1;
+namespace Haokj\Weather1;
 
 use GuzzleHttp\Client;
-use Overtrue\Weather1\Exceptions\HttpException;
-use Overtrue\Weather1\Exceptions\InvalidArgumentException;
+use Haokj\Weather1\Exceptions\HttpException;
+use Haokj\Weather1\Exceptions\InvalidArgumentException;
 
 class Weather
 {
