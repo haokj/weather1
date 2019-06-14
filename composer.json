@@ -1,10 +1,13 @@
 {
-    "autoload": {
-        "psr-4": {
-            "Overtrue\\Weather1\\": "./src/"
+    "name": "overtrue/weather1",
+    "description": "test",
+    "authors": [
+        {
+            "name": "haokj",
+            "email": "953588954@qq.com"
         }
-    },
+    ],
     "require": {
-        "guzzlehttp/guzzle": "^6.3"
+    	"php": ">=7.1.0"
     }
 }
